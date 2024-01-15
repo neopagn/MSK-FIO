@@ -25,7 +25,7 @@
 # Booleans Variables (Don't Modify if you don't know what you're doing)
 : "${BOOL_IS_OPEDSONG:=0}"
 : "${BOOL_IS_EMPTY:=1}"
-: "${rand_post:=0}"
+: "${rand_post:=1}"
 : "${gif_post:=0}"
 
 # Import needed scripts
