@@ -189,3 +189,8 @@
 [√] Frame: 189, Episode 01 https://facebook.com/122108391740179044
 [√] Frame: 190, Episode 01 https://facebook.com/122108401670179044
 [√] Frame: 191, Episode 01 https://facebook.com/122108414834179044
+[√] Frame: 192, Episode 01 https://facebook.com/122108466212179044
+[√] Frame: 193, Episode 01 https://facebook.com/122108480972179044
+[√] Frame: 194, Episode 01 https://facebook.com/122108497448179044
+[√] Frame: 195, Episode 01 https://facebook.com/122108513066179044
+[√] Frame: 196, Episode 01 https://facebook.com/122108530652179044
