@@ -379,3 +379,8 @@
 [√] Frame: 379, Episode 01 https://facebook.com/122111938946179044
 [√] Frame: 380, Episode 01 https://facebook.com/122111945252179044
 [√] Frame: 381, Episode 01 https://facebook.com/122111956256179044
+[√] Frame: 382, Episode 01 https://facebook.com/122111994398179044
+[√] Frame: 383, Episode 01 https://facebook.com/122112003602179044
+[√] Frame: 384, Episode 01 https://facebook.com/122112014642179044
+[√] Frame: 385, Episode 01 https://facebook.com/122112023636179044
+[√] Frame: 386, Episode 01 https://facebook.com/122112031088179044
