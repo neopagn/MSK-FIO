@@ -419,3 +419,8 @@
 [√] Frame: 419, Episode 01 https://facebook.com/122112519104179044
 [√] Frame: 420, Episode 01 https://facebook.com/122112530090179044
 [√] Frame: 421, Episode 01 https://facebook.com/122112537476179044
+[√] Frame: 422, Episode 01 https://facebook.com/122112563600179044
+[√] Frame: 423, Episode 01 https://facebook.com/122112569012179044
+[√] Frame: 424, Episode 01 https://facebook.com/122112576080179044
+[√] Frame: 425, Episode 01 https://facebook.com/122112584156179044
+[√] Frame: 426, Episode 01 https://facebook.com/122112589202179044
