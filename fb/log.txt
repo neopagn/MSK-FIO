@@ -389,3 +389,8 @@
 [√] Frame: 389, Episode 01 https://facebook.com/122112071936179044
 [√] Frame: 390, Episode 01 https://facebook.com/122112078374179044
 [√] Frame: 391, Episode 01 https://facebook.com/122112087002179044
+[√] Frame: 392, Episode 01 https://facebook.com/122112141458179044
+[√] Frame: 393, Episode 01 https://facebook.com/122112146456179044
+[√] Frame: 394, Episode 01 https://facebook.com/122112152438179044
+[√] Frame: 395, Episode 01 https://facebook.com/122112163838179044
+[√] Frame: 396, Episode 01 https://facebook.com/122112172220179044
