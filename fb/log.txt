@@ -499,3 +499,8 @@
 [√] Frame: 499, Episode 01 https://facebook.com/122113387886179044
 [√] Frame: 500, Episode 01 https://facebook.com/122113394450179044
 [√] Frame: 501, Episode 01 https://facebook.com/122113399712179044
+[√] Frame: 502, Episode 01 https://facebook.com/122113423364179044
+[√] Frame: 503, Episode 01 https://facebook.com/122113431392179044
+[√] Frame: 504, Episode 01 https://facebook.com/122113437044179044
+[√] Frame: 505, Episode 01 https://facebook.com/122113440350179044
+[√] Frame: 506, Episode 01 https://facebook.com/122113444064179044
