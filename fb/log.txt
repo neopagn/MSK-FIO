@@ -614,3 +614,8 @@
 [√] Frame: 614, Episode 01 https://facebook.com/122114332082179044
 [√] Frame: 615, Episode 01 https://facebook.com/122114338844179044
 [√] Frame: 616, Episode 01 https://facebook.com/122114343710179044
+[√] Frame: 617, Episode 01 https://facebook.com/122114366036179044
+[√] Frame: 618, Episode 01 https://facebook.com/122114372096179044
+[√] Frame: 619, Episode 01 https://facebook.com/122114376638179044
+[√] Frame: 620, Episode 01 https://facebook.com/122114380898179044
+[√] Frame: 621, Episode 01 https://facebook.com/122114383808179044
