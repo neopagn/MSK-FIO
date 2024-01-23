@@ -569,3 +569,8 @@
 [√] Frame: 569, Episode 01 https://facebook.com/122113944746179044
 [√] Frame: 570, Episode 01 https://facebook.com/122113948592179044
 [√] Frame: 571, Episode 01 https://facebook.com/122113951694179044
+[√] Frame: 572, Episode 01 https://facebook.com/122113972604179044
+[√] Frame: 573, Episode 01 https://facebook.com/122113977704179044
+[√] Frame: 574, Episode 01 https://facebook.com/122113981766179044
+[√] Frame: 575, Episode 01 https://facebook.com/122113984112179044
+[√] Frame: 576, Episode 01 https://facebook.com/122113986836179044
