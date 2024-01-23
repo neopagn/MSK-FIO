@@ -604,3 +604,8 @@
 [√] Frame: 604, Episode 01 https://facebook.com/122114230844179044
 [√] Frame: 605, Episode 01 https://facebook.com/122114235278179044
 [√] Frame: 606, Episode 01 https://facebook.com/122114248406179044
+[√] Frame: 607, Episode 01 https://facebook.com/122114265122179044
+[√] Frame: 608, Episode 01 https://facebook.com/122114271578179044
+[√] Frame: 609, Episode 01 https://facebook.com/122114278562179044
+[√] Frame: 610, Episode 01 https://facebook.com/122114284634179044
+[√] Frame: 611, Episode 01 https://facebook.com/122114288660179044
