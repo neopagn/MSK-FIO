@@ -639,3 +639,8 @@
 [√] Frame: 639, Episode 01 https://facebook.com/122114519312179044
 [√] Frame: 640, Episode 01 https://facebook.com/122114522336179044
 [√] Frame: 641, Episode 01 https://facebook.com/122114524730179044
+[√] Frame: 642, Episode 01 https://facebook.com/122114532698179044
+[√] Frame: 643, Episode 01 https://facebook.com/122114535230179044
+[√] Frame: 644, Episode 01 https://facebook.com/122114538656179044
+[√] Frame: 645, Episode 01 https://facebook.com/122114541134179044
+[√] Frame: 646, Episode 01 https://facebook.com/122114545226179044
