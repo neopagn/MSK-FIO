@@ -969,3 +969,8 @@
 [√] Frame: 969, Episode 01 https://facebook.com/122117086094179044
 [√] Frame: 970, Episode 01 https://facebook.com/122117091536179044
 [√] Frame: 971, Episode 01 https://facebook.com/122117095808179044
+[√] Frame: 972, Episode 01 https://facebook.com/122117116328179044
+[√] Frame: 973, Episode 01 https://facebook.com/122117119886179044
+[√] Frame: 974, Episode 01 https://facebook.com/122117124056179044
+[√] Frame: 975, Episode 01 https://facebook.com/122117128364179044
+[√] Frame: 976, Episode 01 https://facebook.com/122117132468179044
