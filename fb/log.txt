@@ -1139,3 +1139,8 @@
 [√] Frame: 1139, Episode 01 https://facebook.com/122118199244179044
 [√] Frame: 1140, Episode 01 https://facebook.com/122118201464179044
 [√] Frame: 1141, Episode 01 https://facebook.com/122118204518179044
+[√] Frame: 1142, Episode 01 https://facebook.com/122118218300179044
+[√] Frame: 1143, Episode 01 https://facebook.com/122118222506179044
+[√] Frame: 1144, Episode 01 https://facebook.com/122118230120179044
+[√] Frame: 1145, Episode 01 https://facebook.com/122118236792179044
+[√] Frame: 1146, Episode 01 https://facebook.com/122118241988179044
