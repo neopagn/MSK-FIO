@@ -1289,3 +1289,8 @@
 [√] Frame: 1289, Episode 01 https://facebook.com/122119078034179044
 [√] Frame: 1290, Episode 01 https://facebook.com/122119080296179044
 [√] Frame: 1291, Episode 01 https://facebook.com/122119082336179044
+[√] Frame: 1292, Episode 01 https://facebook.com/122119096424179044
+[√] Frame: 1293, Episode 01 https://facebook.com/122119098308179044
+[√] Frame: 1294, Episode 01 https://facebook.com/122119100024179044
+[√] Frame: 1295, Episode 01 https://facebook.com/122119104008179044
+[√] Frame: 1296, Episode 01 https://facebook.com/122119107710179044
