@@ -1436,3 +1436,8 @@
 [√] Frame: 1436, Episode 02 https://facebook.com/122131797698179044
 [√] Frame: 1437, Episode 02 https://facebook.com/122131800080179044
 [√] Frame: 1438, Episode 02 https://facebook.com/122131802558179044
+[√] Frame: 1439, Episode 02 https://facebook.com/122131812494179044
+[√] Frame: 1440, Episode 02 https://facebook.com/122131814498179044
+[√] Frame: 1441, Episode 02 https://facebook.com/122131816766179044
+[√] Frame: 1442, Episode 02 https://facebook.com/122131822388179044
+[√] Frame: 1443, Episode 02 https://facebook.com/122131825232179044
