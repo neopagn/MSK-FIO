@@ -1496,3 +1496,8 @@
 [√] Frame: 3, Episode 02 https://facebook.com/122132182550179044
 [√] Frame: 4, Episode 02 https://facebook.com/122132183948179044
 [√] Frame: 5, Episode 02 https://facebook.com/122132186438179044
+[√] Frame: 6, Episode 02 https://facebook.com/122132196038179044
+[√] Frame: 7, Episode 02 https://facebook.com/122132197868179044
+[√] Frame: 8, Episode 02 https://facebook.com/122132200316179044
+[√] Frame: 9, Episode 02 https://facebook.com/122132201906179044
+[√] Frame: 10, Episode 02 https://facebook.com/122132204444179044
