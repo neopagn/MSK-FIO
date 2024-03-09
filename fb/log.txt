@@ -1556,3 +1556,8 @@
 [√] Frame: 63, Episode 02 https://facebook.com/122132509466179044
 [√] Frame: 64, Episode 02 https://facebook.com/122132510972179044
 [√] Frame: 65, Episode 02 https://facebook.com/122132512334179044
+[√] Frame: 66, Episode 02 https://facebook.com/122132520710179044
+[√] Frame: 67, Episode 02 https://facebook.com/122132522816179044
+[√] Frame: 68, Episode 02 https://facebook.com/122132524460179044
+[√] Frame: 69, Episode 02 https://facebook.com/122132526140179044
+[√] Frame: 70, Episode 02 https://facebook.com/122132528132179044
