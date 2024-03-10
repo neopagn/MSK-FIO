@@ -1581,3 +1581,8 @@
 [√] Frame: 88, Episode 02 https://facebook.com/122132614436179044
 [√] Frame: 89, Episode 02 https://facebook.com/122132617388179044
 [√] Frame: 90, Episode 02 https://facebook.com/122132619854179044
+[√] Frame: 91, Episode 02 https://facebook.com/122132630090179044
+[√] Frame: 92, Episode 02 https://facebook.com/122132632178179044
+[√] Frame: 93, Episode 02 https://facebook.com/122132634500179044
+[√] Frame: 94, Episode 02 https://facebook.com/122132638376179044
+[√] Frame: 95, Episode 02 https://facebook.com/122132642360179044
