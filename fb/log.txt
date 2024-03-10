@@ -1601,3 +1601,8 @@
 [√] Frame: 108, Episode 02 https://facebook.com/122132768816179044
 [√] Frame: 109, Episode 02 https://facebook.com/122132771384179044
 [√] Frame: 110, Episode 02 https://facebook.com/122132774576179044
+[√] Frame: 111, Episode 02 https://facebook.com/122132786786179044
+[√] Frame: 112, Episode 02 https://facebook.com/122132789534179044
+[√] Frame: 113, Episode 02 https://facebook.com/122132793566179044
+[√] Frame: 114, Episode 02 https://facebook.com/122132797094179044
+[√] Frame: 115, Episode 02 https://facebook.com/122132799962179044
