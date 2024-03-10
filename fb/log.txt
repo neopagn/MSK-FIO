@@ -1586,3 +1586,8 @@
 [√] Frame: 93, Episode 02 https://facebook.com/122132634500179044
 [√] Frame: 94, Episode 02 https://facebook.com/122132638376179044
 [√] Frame: 95, Episode 02 https://facebook.com/122132642360179044
+[√] Frame: 96, Episode 02 https://facebook.com/122132682638179044
+[√] Frame: 97, Episode 02 https://facebook.com/122132685278179044
+[√] Frame: 98, Episode 02 https://facebook.com/122132712236179044
+[√] Frame: 99, Episode 02 https://facebook.com/122132715404179044
+[√] Frame: 100, Episode 02 https://facebook.com/122132718008179044
