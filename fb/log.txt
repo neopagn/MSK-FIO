@@ -1566,3 +1566,8 @@
 [√] Frame: 73, Episode 02 https://facebook.com/122132554460179044
 [√] Frame: 74, Episode 02 https://facebook.com/122132555978179044
 [√] Frame: 75, Episode 02 https://facebook.com/122132558978179044
+[√] Frame: 76, Episode 02 https://facebook.com/122132561294179044
+[√] Frame: 77, Episode 02 https://facebook.com/122132565596179044
+[√] Frame: 78, Episode 02 https://facebook.com/122132568962179044
+[√] Frame: 79, Episode 02 https://facebook.com/122132571572179044
+[√] Frame: 80, Episode 02 https://facebook.com/122132574482179044
