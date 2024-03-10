@@ -1596,3 +1596,8 @@
 [√] Frame: 103, Episode 02 https://facebook.com/122132742626179044
 [√] Frame: 104, Episode 02 https://facebook.com/122132745380179044
 [√] Frame: 105, Episode 02 https://facebook.com/122132748008179044
+[√] Frame: 106, Episode 02 https://facebook.com/122132760974179044
+[√] Frame: 107, Episode 02 https://facebook.com/122132764388179044
+[√] Frame: 108, Episode 02 https://facebook.com/122132768816179044
+[√] Frame: 109, Episode 02 https://facebook.com/122132771384179044
+[√] Frame: 110, Episode 02 https://facebook.com/122132774576179044
