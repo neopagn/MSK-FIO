@@ -1676,3 +1676,8 @@
 [√] Frame: 183, Episode 02 https://facebook.com/122133178016179044
 [√] Frame: 184, Episode 02 https://facebook.com/122133179672179044
 [√] Frame: 185, Episode 02 https://facebook.com/122133181484179044
+[√] Frame: 186, Episode 02 https://facebook.com/122133188672179044
+[√] Frame: 187, Episode 02 https://facebook.com/122133190316179044
+[√] Frame: 188, Episode 02 https://facebook.com/122133192158179044
+[√] Frame: 189, Episode 02 https://facebook.com/122133193886179044
+[√] Frame: 190, Episode 02 https://facebook.com/122133195644179044
