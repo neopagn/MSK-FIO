@@ -1631,3 +1631,8 @@
 [√] Frame: 138, Episode 02 https://facebook.com/122132885150179044
 [√] Frame: 139, Episode 02 https://facebook.com/122132887082179044
 [√] Frame: 140, Episode 02 https://facebook.com/122132889140179044
+[√] Frame: 141, Episode 02 https://facebook.com/122132896166179044
+[√] Frame: 142, Episode 02 https://facebook.com/122132898338179044
+[√] Frame: 143, Episode 02 https://facebook.com/122132900048179044
+[√] Frame: 144, Episode 02 https://facebook.com/122132902988179044
+[√] Frame: 145, Episode 02 https://facebook.com/122132905454179044
