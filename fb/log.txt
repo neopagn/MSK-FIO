@@ -1686,3 +1686,8 @@
 [√] Frame: 193, Episode 02 https://facebook.com/122133214712179044
 [√] Frame: 194, Episode 02 https://facebook.com/122133216860179044
 [√] Frame: 195, Episode 02 https://facebook.com/122133219062179044
+[√] Frame: 196, Episode 02 https://facebook.com/122133223364179044
+[√] Frame: 197, Episode 02 https://facebook.com/122133233978179044
+[√] Frame: 198, Episode 02 https://facebook.com/122133236084179044
+[√] Frame: 199, Episode 02 https://facebook.com/122133240968179044
+[√] Frame: 200, Episode 02 https://facebook.com/122133243044179044
