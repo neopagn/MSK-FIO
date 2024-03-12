@@ -1726,3 +1726,8 @@
 [√] Frame: 233, Episode 02 https://facebook.com/122133447932179044
 [√] Frame: 234, Episode 02 https://facebook.com/122133451274179044
 [√] Frame: 235, Episode 02 https://facebook.com/122133455054179044
+[√] Frame: 236, Episode 02 https://facebook.com/122133463526179044
+[√] Frame: 237, Episode 02 https://facebook.com/122133465074179044
+[√] Frame: 238, Episode 02 https://facebook.com/122133466856179044
+[√] Frame: 239, Episode 02 https://facebook.com/122133469208179044
+[√] Frame: 240, Episode 02 https://facebook.com/122133471104179044
