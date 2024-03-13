@@ -1756,3 +1756,8 @@
 [√] Frame: 263, Episode 02 https://facebook.com/122133582734179044
 [√] Frame: 264, Episode 02 https://facebook.com/122133584846179044
 [√] Frame: 265, Episode 02 https://facebook.com/122133587036179044
+[√] Frame: 266, Episode 02 https://facebook.com/122133595286179044
+[√] Frame: 267, Episode 02 https://facebook.com/122133598178179044
+[√] Frame: 268, Episode 02 https://facebook.com/122133600794179044
+[√] Frame: 269, Episode 02 https://facebook.com/122133602342179044
+[√] Frame: 270, Episode 02 https://facebook.com/122133604670179044
