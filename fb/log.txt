@@ -1791,3 +1791,8 @@
 [√] Frame: 298, Episode 02 https://facebook.com/122133753500179044
 [√] Frame: 299, Episode 02 https://facebook.com/122133757346179044
 [√] Frame: 300, Episode 02 https://facebook.com/122133760730179044
+[√] Frame: 301, Episode 02 https://facebook.com/122133771866179044
+[√] Frame: 302, Episode 02 https://facebook.com/122133773924179044
+[√] Frame: 303, Episode 02 https://facebook.com/122133775490179044
+[√] Frame: 304, Episode 02 https://facebook.com/122133777242179044
+[√] Frame: 305, Episode 02 https://facebook.com/122133779702179044
