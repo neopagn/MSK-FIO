@@ -1771,3 +1771,8 @@
 [√] Frame: 278, Episode 02 https://facebook.com/122133640592179044
 [√] Frame: 279, Episode 02 https://facebook.com/122133651128179044
 [√] Frame: 280, Episode 02 https://facebook.com/122133654050179044
+[√] Frame: 281, Episode 02 https://facebook.com/122133666380179044
+[√] Frame: 282, Episode 02 https://facebook.com/122133668816179044
+[√] Frame: 283, Episode 02 https://facebook.com/122133671954179044
+[√] Frame: 284, Episode 02 https://facebook.com/122133674588179044
+[√] Frame: 285, Episode 02 https://facebook.com/122133677870179044
