@@ -1831,3 +1831,8 @@
 [√] Frame: 338, Episode 02 https://facebook.com/122133895658179044
 [√] Frame: 339, Episode 02 https://facebook.com/122133897962179044
 [√] Frame: 340, Episode 02 https://facebook.com/122133900146179044
+[√] Frame: 341, Episode 02 https://facebook.com/122133912548179044
+[√] Frame: 342, Episode 02 https://facebook.com/122133915260179044
+[√] Frame: 343, Episode 02 https://facebook.com/122133918692179044
+[√] Frame: 344, Episode 02 https://facebook.com/122133923462179044
+[√] Frame: 345, Episode 02 https://facebook.com/122133928076179044
