@@ -1801,3 +1801,8 @@
 [√] Frame: 308, Episode 02 https://facebook.com/122133789200179044
 [√] Frame: 309, Episode 02 https://facebook.com/122133791090179044
 [√] Frame: 310, Episode 02 https://facebook.com/122133792776179044
+[√] Frame: 311, Episode 02 https://facebook.com/122133809126179044
+[√] Frame: 312, Episode 02 https://facebook.com/122133810752179044
+[√] Frame: 313, Episode 02 https://facebook.com/122133812426179044
+[√] Frame: 314, Episode 02 https://facebook.com/122133814112179044
+[√] Frame: 315, Episode 02 https://facebook.com/122133816266179044
