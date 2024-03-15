@@ -1916,3 +1916,8 @@
 [√] Frame: 423, Episode 02 https://facebook.com/
 [√] Frame: 424, Episode 02 https://facebook.com/
 [√] Frame: 425, Episode 02 https://facebook.com/
+[√] Frame: 426, Episode 02 https://facebook.com/
+[√] Frame: 427, Episode 02 https://facebook.com/
+[√] Frame: 428, Episode 02 https://facebook.com/
+[√] Frame: 429, Episode 02 https://facebook.com/
+[√] Frame: 430, Episode 02 https://facebook.com/
