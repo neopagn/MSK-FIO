@@ -1901,3 +1901,8 @@
 [√] Frame: 408, Episode 02 https://facebook.com/
 [√] Frame: 409, Episode 02 https://facebook.com/
 [√] Frame: 410, Episode 02 https://facebook.com/
+[√] Frame: 411, Episode 02 https://facebook.com/
+[√] Frame: 412, Episode 02 https://facebook.com/
+[√] Frame: 413, Episode 02 https://facebook.com/
+[√] Frame: 414, Episode 02 https://facebook.com/
+[√] Frame: 415, Episode 02 https://facebook.com/
