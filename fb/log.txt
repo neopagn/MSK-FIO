@@ -1871,3 +1871,8 @@
 [√] Frame: 378, Episode 02 https://facebook.com/
 [√] Frame: 379, Episode 02 https://facebook.com/
 [√] Frame: 380, Episode 02 https://facebook.com/
+[√] Frame: 381, Episode 02 https://facebook.com/
+[√] Frame: 382, Episode 02 https://facebook.com/
+[√] Frame: 383, Episode 02 https://facebook.com/
+[√] Frame: 384, Episode 02 https://facebook.com/
+[√] Frame: 385, Episode 02 https://facebook.com/
