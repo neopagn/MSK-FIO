@@ -1961,3 +1961,8 @@
 [√] Frame: 468, Episode 02 https://facebook.com/
 [√] Frame: 469, Episode 02 https://facebook.com/
 [√] Frame: 470, Episode 02 https://facebook.com/
+[√] Frame: 471, Episode 02 https://facebook.com/
+[√] Frame: 472, Episode 02 https://facebook.com/
+[√] Frame: 473, Episode 02 https://facebook.com/
+[√] Frame: 474, Episode 02 https://facebook.com/
+[√] Frame: 475, Episode 02 https://facebook.com/
