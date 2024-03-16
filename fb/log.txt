@@ -1941,3 +1941,8 @@
 [√] Frame: 448, Episode 02 https://facebook.com/
 [√] Frame: 449, Episode 02 https://facebook.com/
 [√] Frame: 450, Episode 02 https://facebook.com/
+[√] Frame: 451, Episode 02 https://facebook.com/
+[√] Frame: 452, Episode 02 https://facebook.com/
+[√] Frame: 453, Episode 02 https://facebook.com/
+[√] Frame: 454, Episode 02 https://facebook.com/
+[√] Frame: 455, Episode 02 https://facebook.com/
