@@ -2021,3 +2021,8 @@
 [√] Frame: 528, Episode 02 https://facebook.com/122135174090179044
 [√] Frame: 529, Episode 02 https://facebook.com/122135177828179044
 [√] Frame: 530, Episode 02 https://facebook.com/122135179496179044
+[√] Frame: 531, Episode 02 https://facebook.com/122135189750179044
+[√] Frame: 532, Episode 02 https://facebook.com/122135191382179044
+[√] Frame: 533, Episode 02 https://facebook.com/122135193062179044
+[√] Frame: 534, Episode 02 https://facebook.com/122135196572179044
+[√] Frame: 535, Episode 02 https://facebook.com/122135201924179044
