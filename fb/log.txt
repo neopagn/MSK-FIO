@@ -2016,3 +2016,8 @@
 [√] Frame: 523, Episode 02 https://facebook.com/122135151824179044
 [√] Frame: 524, Episode 02 https://facebook.com/122135153684179044
 [√] Frame: 525, Episode 02 https://facebook.com/122135155886179044
+[√] Frame: 526, Episode 02 https://facebook.com/122135166878179044
+[√] Frame: 527, Episode 02 https://facebook.com/122135170928179044
+[√] Frame: 528, Episode 02 https://facebook.com/122135174090179044
+[√] Frame: 529, Episode 02 https://facebook.com/122135177828179044
+[√] Frame: 530, Episode 02 https://facebook.com/122135179496179044
