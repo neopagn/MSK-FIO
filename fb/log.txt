@@ -1986,3 +1986,8 @@
 [√] Frame: 493, Episode 02 https://facebook.com/
 [√] Frame: 494, Episode 02 https://facebook.com/
 [√] Frame: 495, Episode 02 https://facebook.com/
+[√] Frame: 496, Episode 02 https://facebook.com/
+[√] Frame: 497, Episode 02 https://facebook.com/
+[√] Frame: 498, Episode 02 https://facebook.com/
+[√] Frame: 499, Episode 02 https://facebook.com/
+[√] Frame: 500, Episode 02 https://facebook.com/
