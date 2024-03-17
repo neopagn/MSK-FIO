@@ -2001,3 +2001,8 @@
 [√] Frame: 508, Episode 02 https://facebook.com/
 [√] Frame: 509, Episode 02 https://facebook.com/
 [√] Frame: 510, Episode 02 https://facebook.com/
+[√] Frame: 511, Episode 02 https://facebook.com/
+[√] Frame: 512, Episode 02 https://facebook.com/
+[√] Frame: 513, Episode 02 https://facebook.com/
+[√] Frame: 514, Episode 02 https://facebook.com/
+[√] Frame: 515, Episode 02 https://facebook.com/
