@@ -1996,3 +1996,8 @@
 [√] Frame: 503, Episode 02 https://facebook.com/
 [√] Frame: 504, Episode 02 https://facebook.com/
 [√] Frame: 505, Episode 02 https://facebook.com/
+[√] Frame: 506, Episode 02 https://facebook.com/
+[√] Frame: 507, Episode 02 https://facebook.com/
+[√] Frame: 508, Episode 02 https://facebook.com/
+[√] Frame: 509, Episode 02 https://facebook.com/
+[√] Frame: 510, Episode 02 https://facebook.com/
