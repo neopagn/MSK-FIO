@@ -1981,3 +1981,8 @@
 [√] Frame: 488, Episode 02 https://facebook.com/
 [√] Frame: 489, Episode 02 https://facebook.com/
 [√] Frame: 490, Episode 02 https://facebook.com/
+[√] Frame: 491, Episode 02 https://facebook.com/
+[√] Frame: 492, Episode 02 https://facebook.com/
+[√] Frame: 493, Episode 02 https://facebook.com/
+[√] Frame: 494, Episode 02 https://facebook.com/
+[√] Frame: 495, Episode 02 https://facebook.com/
