@@ -2041,3 +2041,8 @@
 [√] Frame: 548, Episode 02 https://facebook.com/122135278286179044
 [√] Frame: 549, Episode 02 https://facebook.com/122135281760179044
 [√] Frame: 550, Episode 02 https://facebook.com/122135283812179044
+[√] Frame: 551, Episode 02 https://facebook.com/122135293496179044
+[√] Frame: 552, Episode 02 https://facebook.com/122135297246179044
+[√] Frame: 553, Episode 02 https://facebook.com/122135300474179044
+[√] Frame: 554, Episode 02 https://facebook.com/122135304500179044
+[√] Frame: 555, Episode 02 https://facebook.com/122135307404179044
