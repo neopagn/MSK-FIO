@@ -2081,3 +2081,8 @@
 [√] Frame: 588, Episode 02 https://facebook.com/122135582960179044
 [√] Frame: 589, Episode 02 https://facebook.com/122135584934179044
 [√] Frame: 590, Episode 02 https://facebook.com/122135587460179044
+[√] Frame: 591, Episode 02 https://facebook.com/122135594378179044
+[√] Frame: 592, Episode 02 https://facebook.com/122135596184179044
+[√] Frame: 593, Episode 02 https://facebook.com/122135599292179044
+[√] Frame: 594, Episode 02 https://facebook.com/122135602352179044
+[√] Frame: 595, Episode 02 https://facebook.com/122135604824179044
