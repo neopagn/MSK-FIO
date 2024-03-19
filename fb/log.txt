@@ -2116,3 +2116,8 @@
 [√] Frame: 623, Episode 02 https://facebook.com/122135727530179044
 [√] Frame: 624, Episode 02 https://facebook.com/122135730458179044
 [√] Frame: 625, Episode 02 https://facebook.com/122135732042179044
+[√] Frame: 626, Episode 02 https://facebook.com/122135755004179044
+[√] Frame: 627, Episode 02 https://facebook.com/122135759912179044
+[√] Frame: 628, Episode 02 https://facebook.com/122135762690179044
+[√] Frame: 629, Episode 02 https://facebook.com/122135767544179044
+[√] Frame: 630, Episode 02 https://facebook.com/122135769644179044
