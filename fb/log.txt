@@ -2101,3 +2101,8 @@
 [√] Frame: 608, Episode 02 https://facebook.com/122135660912179044
 [√] Frame: 609, Episode 02 https://facebook.com/122135663270179044
 [√] Frame: 610, Episode 02 https://facebook.com/122135665898179044
+[√] Frame: 611, Episode 02 https://facebook.com/122135673866179044
+[√] Frame: 612, Episode 02 https://facebook.com/122135676476179044
+[√] Frame: 613, Episode 02 https://facebook.com/122135678726179044
+[√] Frame: 614, Episode 02 https://facebook.com/122135682200179044
+[√] Frame: 615, Episode 02 https://facebook.com/122135684480179044
