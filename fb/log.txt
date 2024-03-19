@@ -2106,3 +2106,8 @@
 [√] Frame: 613, Episode 02 https://facebook.com/122135678726179044
 [√] Frame: 614, Episode 02 https://facebook.com/122135682200179044
 [√] Frame: 615, Episode 02 https://facebook.com/122135684480179044
+[√] Frame: 616, Episode 02 https://facebook.com/122135696396179044
+[√] Frame: 617, Episode 02 https://facebook.com/122135699564179044
+[√] Frame: 618, Episode 02 https://facebook.com/122135702426179044
+[√] Frame: 619, Episode 02 https://facebook.com/122135705270179044
+[√] Frame: 620, Episode 02 https://facebook.com/122135707544179044
