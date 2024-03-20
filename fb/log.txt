@@ -2206,3 +2206,8 @@
 [√] Frame: 713, Episode 02 https://facebook.com/122136276380179044
 [√] Frame: 714, Episode 02 https://facebook.com/122136277886179044
 [√] Frame: 715, Episode 02 https://facebook.com/122136281510179044
+[√] Frame: 716, Episode 02 https://facebook.com/122136292742179044
+[√] Frame: 717, Episode 02 https://facebook.com/122136294302179044
+[√] Frame: 718, Episode 02 https://facebook.com/122136296072179044
+[√] Frame: 719, Episode 02 https://facebook.com/122136297554179044
+[√] Frame: 720, Episode 02 https://facebook.com/122136298988179044
