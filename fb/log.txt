@@ -2156,3 +2156,8 @@
 [√] Frame: 663, Episode 02 https://facebook.com/122135937332179044
 [√] Frame: 664, Episode 02 https://facebook.com/122135939858179044
 [√] Frame: 665, Episode 02 https://facebook.com/122135941772179044
+[√] Frame: 666, Episode 02 https://facebook.com/122135944100179044
+[√] Frame: 667, Episode 02 https://facebook.com/122135946350179044
+[√] Frame: 668, Episode 02 https://facebook.com/122135948990179044
+[√] Frame: 669, Episode 02 https://facebook.com/122135951222179044
+[√] Frame: 670, Episode 02 https://facebook.com/122135954918179044
