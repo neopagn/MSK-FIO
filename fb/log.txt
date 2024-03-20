@@ -2171,3 +2171,8 @@
 [√] Frame: 678, Episode 02 https://facebook.com/122135984480179044
 [√] Frame: 679, Episode 02 https://facebook.com/122135986700179044
 [√] Frame: 680, Episode 02 https://facebook.com/122135989178179044
+[√] Frame: 681, Episode 02 https://facebook.com/122135996714179044
+[√] Frame: 682, Episode 02 https://facebook.com/122135998316179044
+[√] Frame: 683, Episode 02 https://facebook.com/122136000728179044
+[√] Frame: 684, Episode 02 https://facebook.com/122136002996179044
+[√] Frame: 685, Episode 02 https://facebook.com/122136011444179044
