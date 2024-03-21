@@ -2266,3 +2266,8 @@
 [√] Frame: 773, Episode 02 https://facebook.com/122136977744179044
 [√] Frame: 774, Episode 02 https://facebook.com/122136979610179044
 [√] Frame: 775, Episode 02 https://facebook.com/122136981128179044
+[√] Frame: 776, Episode 02 https://facebook.com/122136987518179044
+[√] Frame: 777, Episode 02 https://facebook.com/122136997298179044
+[√] Frame: 778, Episode 02 https://facebook.com/122137028714179044
+[√] Frame: 779, Episode 02 https://facebook.com/122137037732179044
+[√] Frame: 780, Episode 02 https://facebook.com/122137039118179044
