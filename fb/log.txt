@@ -2231,3 +2231,8 @@
 [√] Frame: 738, Episode 02 https://facebook.com/122136470462179044
 [√] Frame: 739, Episode 02 https://facebook.com/122136473564179044
 [√] Frame: 740, Episode 02 https://facebook.com/122136485708179044
+[√] Frame: 741, Episode 02 https://facebook.com/122136566414179044
+[√] Frame: 742, Episode 02 https://facebook.com/122136585938179044
+[√] Frame: 743, Episode 02 https://facebook.com/122136589616179044
+[√] Frame: 744, Episode 02 https://facebook.com/122136593282179044
+[√] Frame: 745, Episode 02 https://facebook.com/122136602402179044
