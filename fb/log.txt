@@ -2296,3 +2296,8 @@
 [√] Frame: 803, Episode 02 https://facebook.com/122137138376179044
 [√] Frame: 804, Episode 02 https://facebook.com/122137141808179044
 [√] Frame: 805, Episode 02 https://facebook.com/122137143890179044
+[√] Frame: 806, Episode 02 https://facebook.com/122137169762179044
+[√] Frame: 807, Episode 02 https://facebook.com/122137180718179044
+[√] Frame: 808, Episode 02 https://facebook.com/122137183526179044
+[√] Frame: 809, Episode 02 https://facebook.com/122137188020179044
+[√] Frame: 810, Episode 02 https://facebook.com/122137202330179044
