@@ -2311,3 +2311,8 @@
 [√] Frame: 818, Episode 02 https://facebook.com/122137300178179044
 [√] Frame: 819, Episode 02 https://facebook.com/122137303130179044
 [√] Frame: 820, Episode 02 https://facebook.com/122137305074179044
+[√] Frame: 821, Episode 02 https://facebook.com/122137317206179044
+[√] Frame: 822, Episode 02 https://facebook.com/122137319510179044
+[√] Frame: 823, Episode 02 https://facebook.com/122137322180179044
+[√] Frame: 824, Episode 02 https://facebook.com/122137324832179044
+[√] Frame: 825, Episode 02 https://facebook.com/122137327058179044
