@@ -2426,3 +2426,8 @@
 [√] Frame: 933, Episode 02 https://facebook.com/122137983002179044
 [√] Frame: 934, Episode 02 https://facebook.com/122137996172179044
 [√] Frame: 935, Episode 02 https://facebook.com/122138014982179044
+[√] Frame: 936, Episode 02 https://facebook.com/122138097428179044
+[√] Frame: 937, Episode 02 https://facebook.com/122138101244179044
+[√] Frame: 938, Episode 02 https://facebook.com/122138107172179044
+[√] Frame: 939, Episode 02 https://facebook.com/122138113322179044
+[√] Frame: 940, Episode 02 https://facebook.com/122138116610179044
