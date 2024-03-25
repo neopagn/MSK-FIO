@@ -2471,3 +2471,8 @@
 [√] Frame: 978, Episode 02 https://facebook.com/122138300474179044
 [√] Frame: 979, Episode 02 https://facebook.com/122138303168179044
 [√] Frame: 980, Episode 02 https://facebook.com/122138308130179044
+[√] Frame: 981, Episode 02 https://facebook.com/122138320622179044
+[√] Frame: 982, Episode 02 https://facebook.com/122138324540179044
+[√] Frame: 983, Episode 02 https://facebook.com/122138328698179044
+[√] Frame: 984, Episode 02 https://facebook.com/122138332754179044
+[√] Frame: 985, Episode 02 https://facebook.com/122138335670179044
