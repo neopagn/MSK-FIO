@@ -2486,3 +2486,8 @@
 [√] Frame: 993, Episode 02 https://facebook.com/122138386298179044
 [√] Frame: 994, Episode 02 https://facebook.com/122138389448179044
 [√] Frame: 995, Episode 02 https://facebook.com/122138392364179044
+[√] Frame: 996, Episode 02 https://facebook.com/122138405984179044
+[√] Frame: 997, Episode 02 https://facebook.com/122138408732179044
+[√] Frame: 998, Episode 02 https://facebook.com/122138412812179044
+[√] Frame: 999, Episode 02 https://facebook.com/122138417366179044
+[√] Frame: 1000, Episode 02 https://facebook.com/122138420252179044
