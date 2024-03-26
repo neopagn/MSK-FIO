@@ -2561,3 +2561,8 @@
 [√] Frame: 1068, Episode 02 https://facebook.com/122138859254179044
 [√] Frame: 1069, Episode 02 https://facebook.com/122138861384179044
 [√] Frame: 1070, Episode 02 https://facebook.com/122138863394179044
+[√] Frame: 1071, Episode 02 https://facebook.com/122138871236179044
+[√] Frame: 1072, Episode 02 https://facebook.com/122138873294179044
+[√] Frame: 1073, Episode 02 https://facebook.com/122138875466179044
+[√] Frame: 1074, Episode 02 https://facebook.com/122138878508179044
+[√] Frame: 1075, Episode 02 https://facebook.com/122138881526179044
