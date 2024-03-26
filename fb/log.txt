@@ -2516,3 +2516,8 @@
 [√] Frame: 1023, Episode 02 https://facebook.com/122138587352179044
 [√] Frame: 1024, Episode 02 https://facebook.com/122138590172179044
 [√] Frame: 1025, Episode 02 https://facebook.com/122138592884179044
+[√] Frame: 1026, Episode 02 https://facebook.com/122138603606179044
+[√] Frame: 1027, Episode 02 https://facebook.com/122138620244179044
+[√] Frame: 1028, Episode 02 https://facebook.com/122138622872179044
+[√] Frame: 1029, Episode 02 https://facebook.com/122138625284179044
+[√] Frame: 1030, Episode 02 https://facebook.com/122138629004179044
