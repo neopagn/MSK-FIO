@@ -2631,3 +2631,8 @@
 [√] Frame: 1138, Episode 02 https://facebook.com/122139210086179044
 [√] Frame: 1139, Episode 02 https://facebook.com/122139212294179044
 [√] Frame: 1140, Episode 02 https://facebook.com/122139215252179044
+[√] Frame: 1141, Episode 02 https://facebook.com/122139217940179044
+[√] Frame: 1142, Episode 02 https://facebook.com/122139220760179044
+[√] Frame: 1143, Episode 02 https://facebook.com/122139225530179044
+[√] Frame: 1144, Episode 02 https://facebook.com/122139228326179044
+[√] Frame: 1145, Episode 02 https://facebook.com/122139230474179044
